@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IyaadDev
 - 👀 I’m interested in HTML, CSS JavaScript, Ruby, Python, MySQL
-- 🌱 I’m currently learning more Bootstrap (in more detail), JavaScript
+- 🌱 I’m currently learning JavaScript, python
 - 💞️ I’m looking to collaborate on nothing yet, I'm no professional dev
 - 📫 How to reach me iyaadcorporate@gmail.com
 
