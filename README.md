@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IyaadDev
-- 👀 I’m interested in HTML, CSS JavaScript, Ruby, Python, MySQL
-- 🌱 I’m currently learning JavaScript, python
-- 💞️ I’m looking to collaborate on nothing yet, I'm no professional developer
-- 📫 How to reach me iyaadcorporate@gmail.com
+- 👋 Hi, I’m @IyaadDev, I'm a 13 year old young teen who wants to develop technology when he's holder
+- 👀 I’m interested in Python and Javascript
+- 🌱 I’m currently learning nothing (Unfortunately)
+- 💞️ I’m looking to collaborate on simple web designs, HTML, CSS and Javascript, I'm also looking to help evaluate repositories in HTML, CSS, JS, Python and other code repos
+- 📫 How to reach me executives@schooltool.io
 
 <!---
 IyaadDev/IyaadDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
