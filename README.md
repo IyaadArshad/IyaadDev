@@ -34,7 +34,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- ![IyaadDev Github Stats](https://github-readme-stats.vercel.app/api?username=IyaadDev&theme=onedark) --->
 
-_
 #### Binance Smart Chain
 ```
 0x433ddeea38ee0219e9402f28b35be9d6bd76589c
