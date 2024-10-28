@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm Iyaad Arshad, and here's a little bit about me:
+Welcome to my GitHub profile! <br />
+I'm Iyaad Arshad, and here's a little bit about me:
 
 ## About Me
 
@@ -11,7 +12,8 @@ Welcome to my GitHub profile! I'm Iyaad Arshad, and here's a little bit about me
 
 ## Introduction
 
-wsg? I'm Iyaad, a sort of nextjs enthusiast with a passion creating everyday applications ig. Yk, regular small apps for random side projects...
+wsg? <br />
+I'm Iyaad, a sort of nextjs enthusiast with a passion creating everyday applications ig. Yk, regular small apps for random side projects...
 
 ## What I'm Up To (sort of)
 
