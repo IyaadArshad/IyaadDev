@@ -104,3 +104,5 @@ You can click the Preview link to take a look at your changes.
 
 
 open-source freedom fighter?
+
+[![](https://visitcount.itsvg.in/api?id=IyaadDev&label=Profile%20Views&color=0&icon=1&pretty=true)](https://acroford.com)
