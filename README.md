@@ -106,3 +106,60 @@ You can click the Preview link to take a look at your changes.
 open-source freedom fighter?
 
 [![](https://visitcount.itsvg.in/api?id=IyaadDev&label=Profile%20Views&color=0&icon=1&pretty=true)](https://acroford.com)
+
+
+When your business pays rent with cash, you need to record this transaction by adjusting the respective expense and asset accounts. Let's assume the rent payment occurred on October 18, 2023, with an amount of £300. Note the entries below:
+
+Certainly, let's represent the Rent and Cash/Bank transactions using T-accounts. We will illustrate both methods of payment: with Cash and with Bank.
+
+### Rent Payment with Cash
+
+#### Rent Account (T-account)
+
+```
+  Debit                    | Credit
+---------------------------|-----------------------------
+Date: 2023-10-18           | 
+Details: Cash A/C          | 
+Amount: £300               |
+
+```
+
+#### Cash Account (T-account)
+
+```
+  Debit                    | Credit
+---------------------------|-----------------------------
+                           | Date: 2023-10-18
+                           | Details: Rent A/C
+                           | Amount: £300
+```
+
+### Rent Payment with Bank
+
+#### Rent Account (T-account)
+
+```
+  Debit                    | Credit
+---------------------------|-----------------------------
+Date: 2023-10-18           | 
+Details: Bank A/C          | 
+Amount: £300               |
+
+```
+
+#### Bank Account (T-account)
+
+```
+  Debit                    | Credit
+---------------------------|-----------------------------
+                           | Date: 2023-10-18
+                           | Details: Rent A/C
+                           | Amount: £300
+```
+
+In this layout:
+- The **Debit** side of the Rent Account reflects the increase in expenses due to the payment of rent.
+- The **Credit** side of the Cash or Bank Account shows the decrease in either the cash on hand or the bank balance because of the payment made.
+
+Using T-accounts effectively helps visualize how transactions affect different accounts in the double-entry system.
