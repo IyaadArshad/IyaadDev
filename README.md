@@ -1,7 +1,6 @@
-# Hey there! 👋
+# Salut.
 
-Welcome to my GitHub profile! <br />
-I'm Iyaad Arshad, and here's a little bit about me:
+this github profile
 
 ## About Me
 
